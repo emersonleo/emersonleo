@@ -1,4 +1,4 @@
-# Emerson Leonardo de Lira
+# Emerson Lira
 
 Desenvolvedor Full Stack com experiência em **Angular**, **Spring Boot**, **Flutter** e integração de **APIs REST**. Apaixonado por tecnologia, inovação e performance, com projetos focados em soluções escaláveis e otimizadas. Atualmente pós-graduando em Arquitetura e Desenvolvimento Java, e concluindo o bacharelado em Sistemas de Informação.
 
